@@ -18,7 +18,7 @@ https://github.com/monologg/KoELECTRA
 https://huggingface.co/google/electra-small-discriminator<br>
 https://github.com/google-research/electra
 
-## Dataset
+## Dataset (학습에는 train파일만 사용함, test파일 사용시 감점대상)
 - 한국어 : 네이버 영화 리뷰 데이터셋<br>
 https://github.com/e9t/nsmc
 - 영어 : Freinds <br>

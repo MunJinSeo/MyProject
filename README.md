@@ -1,5 +1,6 @@
 # 한국어 KoELECTRA를_이용한_감정분석기_학습 (Pytorch + HuggingFace)
 # Colab 에서 개발 및 실행
+# Github : https://github.com/MunJinSeo/MyProject/
 <br>
 
 ## References 1

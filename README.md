@@ -26,14 +26,17 @@ http://doraemon.iis.sinica.edu.tw/emotionlines/
 
 ## References 2
 - https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP
-- https://blog.naver.com/horajjan/221739630055
+- https://blog.naver.com/horajjan/221739630055 <br>@전처리 관련@<br>
+- https://github.com/YongWookHa/kor-text-preprocess
+- https://github.com/likejazz/korean-sentence-splitter
+- https://github.com/lovit/soynlp <br>@@<br>
 - https://huggingface.co/transformers/training.html
 - https://tutorials.pytorch.kr/beginner/data_loading_tutorial.html
 - https://tutorials.pytorch.kr/beginner/blitz/cifar10_tutorial.html
 - https://wikidocs.net/44249
 
 
-# 기타/유의사항
+## 기타/유의사항
 - 반드시 GPU로 실행 - Colab무료환경에서 1epoch 당 약 10~20분 소요
 - CUDA(GPU) 메모리 오버되는경우 학습시 Batch size 줄여서 해볼것
 - 학습용 데이터 파일은 사전에 업로드 할것

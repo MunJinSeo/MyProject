@@ -37,7 +37,9 @@ http://doraemon.iis.sinica.edu.tw/emotionlines/
 
 
 ## 기타/유의사항
-- 반드시 GPU로 실행 - Colab무료환경에서 1epoch 당 약 10~20분 소요
+- 반드시 GPU로 실행 (Colab Pro 권장)
 - CUDA(GPU) 메모리 오버되는경우 학습시 Batch size 줄여서 해볼것
 - 학습용 데이터 파일은 사전에 업로드 할것
+- ELECTRA large 1epoch 당 약 30분
+- KoELECTRA base_v3 1epoch 당 약 60분
 

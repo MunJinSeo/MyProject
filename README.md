@@ -17,7 +17,6 @@ https://github.com/monologg/KoELECTRA
 - 영어 : 구글 ELECTRA-large 사용<br>
 https://github.com/google-research/electra <br>
 https://huggingface.co/google/electra-large-discriminator<br>
-<br>
 참고 : https://huggingface.co/google/electra-base-discriminator<br>
 참고 : https://huggingface.co/google/electra-small-discriminator<br>
 

@@ -10,7 +10,7 @@ https://heegyukim.medium.com/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84
 - (2) 이지원님의 Github : nlp_emotion_classification <br>
 https://github.com/jiwonny/nlp_emotion_classification
 
-## 사용모델 한국어 KoELECTRA , 영어 ELECTRA
+## 사용모델: 한국어 KoELECTRA , 영어 ELECTRA
 - 한국어 : 박장원님의 KoELECTRA 사용<br>
 https://monologg.kr/2020/05/02/koelectra-part1/<br>
 https://github.com/monologg/KoELECTRA

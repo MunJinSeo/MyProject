@@ -15,10 +15,11 @@ https://github.com/jiwonny/nlp_emotion_classification
 https://monologg.kr/2020/05/02/koelectra-part1/<br>
 https://github.com/monologg/KoELECTRA
 - 영어 : 구글 ELECTRA-large 사용<br>
-https://huggingface.co/google/electra-small-discriminator<br>
+https://github.com/google-research/electra <br>
 https://huggingface.co/google/electra-large-discriminator<br>
-https://huggingface.co/google/electra-base-discriminator<br>
-https://huggingface.co/google/electra-small-discriminator<br>
+<br>
+참고 : https://huggingface.co/google/electra-base-discriminator<br>
+참고 : https://huggingface.co/google/electra-small-discriminator<br>
 
 ## Dataset (학습에는 train파일만 사용함, test파일 사용시 감점대상)
 - 한국어 : 네이버 영화 리뷰 데이터셋<br>

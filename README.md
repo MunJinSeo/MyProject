@@ -20,7 +20,7 @@ https://huggingface.co/google/electra-large-discriminator<br>
 참고 : https://huggingface.co/google/electra-base-discriminator<br>
 참고 : https://huggingface.co/google/electra-small-discriminator<br>
 
-## Dataset (학습에는 train파일만 사용함, test파일 사용시 감점대상)
+## Dataset (학습에는 train파일만 사용함, test파일은 검증에 사용)
 - 한국어 : 네이버 영화 리뷰 데이터셋<br>
 https://github.com/e9t/nsmc <br>
 ratings_train.txt <br>

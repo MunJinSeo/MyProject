@@ -11,10 +11,10 @@ https://heegyukim.medium.com/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84
 https://github.com/jiwonny/nlp_emotion_classification
 
 ## 사용모델: 한국어 KoELECTRA , 영어 ELECTRA
-- 한국어 : 박장원님의 KoELECTRA 사용<br>
+- 한국어 : 박장원님의 KoELECTRA-base-v3 사용<br>
 https://monologg.kr/2020/05/02/koelectra-part1/<br>
 https://github.com/monologg/KoELECTRA
-- 영어 : 구글 ELECTRA 사용<br>
+- 영어 : 구글 ELECTRA-large 사용<br>
 https://huggingface.co/google/electra-small-discriminator<br>
 https://huggingface.co/google/electra-large-discriminator<br>
 https://huggingface.co/google/electra-base-discriminator<br>

@@ -59,6 +59,7 @@ en_data.csv
 - 소스는 위에서부터 순차적으로 실행하면 됨
 - CUDA(GPU) 메모리 오버되는경우 학습시 Batch size 줄여서 해볼것
 - KoELECTRA base_v3으로 사용했으며 1epoch 당 약 60분
+- 만약 정확도 확인하는 부문에서 CUDA(GPU) 메모리 오버가 나오면 ▷ 모델 별도 저장 ▷ 런타임 초기화 ▷ 모델 로딩 ▷ 학습은 건너뛰고 정확도 실행
 - ELECTRA large 사용했으며 1epoch 당 약 30분
 
 

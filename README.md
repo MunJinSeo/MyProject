@@ -63,7 +63,7 @@ en_data.csv
 - ELECTRA large 사용했으며 1epoch 당 약 30분
 
 
-## 처리 순서 
+## 처리 순서 (한국어/영어 )
 - 필요 lib 설치
 - NSMC / Friends 데이터셋 처리
 - 필요 모듈 import

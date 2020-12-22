@@ -76,4 +76,14 @@ en_data.csv
 - 결과 파일 저장
 
 
+## 학습된 모델pt 다운로드 경로
+- 한국어 NSMC KoELECTRA base v3 epoch(12) <br>
+model_daniel021_nsmc_koelectra_base_v3_epoch12.pt <br>
+https://drive.google.com/file/d/1HFW-qAEeCcmNlCS45PUVeA2B6frD4pPJ/view?usp=sharing  <br>
+
+- 영어 Friends ELECTRA large epoch(16) <br>
+model_daniel021_friends_electra_large_epoch16.pt <br>
+https://drive.google.com/file/d/1lK2Rc7aJ_YzBZYzEpOLH0ZgT1u6xqVsu/view?usp=sharing <br>
+
+
 

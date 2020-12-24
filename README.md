@@ -14,7 +14,7 @@ https://github.com/jiwonny/nlp_emotion_classification
 - 한국어 : 박장원님의 KoELECTRA-base-v3 사용<br>
 https://monologg.kr/2020/05/02/koelectra-part1/<br>
 https://github.com/monologg/KoELECTRA
-- 영어 : 구글 ELECTRA-large 사용<br>
+- 영어 : 구글 ELECTRA-large/base 사용<br>
 https://github.com/google-research/electra <br>
 https://huggingface.co/google/electra-large-discriminator<br>
 참고 : https://huggingface.co/google/electra-base-discriminator<br>

@@ -85,5 +85,9 @@ https://drive.google.com/file/d/1HFW-qAEeCcmNlCS45PUVeA2B6frD4pPJ/view?usp=shari
 model_daniel021_friends_electra_large_epoch16.pt <br>
 https://drive.google.com/file/d/1lK2Rc7aJ_YzBZYzEpOLH0ZgT1u6xqVsu/view?usp=sharing <br>
 
+- 영어 Friends ELECTRA base epoch(8) <br>
+model_daniel021_friends_electra_base_epoch8.pt <br>
+https://drive.google.com/file/d/1-1ek25rqexx1obvZYfD-isnMHJfjHEjV/view?usp=sharing <br>
+
 
 

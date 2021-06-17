@@ -1,6 +1,6 @@
 # 한국어(NSMC)/영어(Friends) KoELECTRA/ELECTRA를_이용한_감정분석기 (Pytorch + HuggingFace)
 # Colab 에서 개발 및 실행 (하단 실행방법 참조)
-# Github : https://github.com/MunJinSeo/MyProject/
+# Github : https://github.com/MunJinSeo/NSMC_KoELECTRA/
 <br>
 
 ## References 1
